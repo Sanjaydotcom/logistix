@@ -1,0 +1,297 @@
+<script>
+import { FilterIcon } from "@heroicons/vue/solid";
+import { useCodesStore } from "~~/store/masters/codes";
+import { storeToRefs } from "pinia";
+export default {
+  props: ["sortByName", "sortByDate", "prevPage", "nextPage"],
+  setup(props) {
+    const store = useCodesStore();
+    const { pageNum } = storeToRefs(store);
+    const { pageCount } = storeToRefs(store);
+    const showFilters = ref(false);
+    const showMore = ref(false);
+    const inner_ref = ref(null);
+    const filter = ref(store.getFilterType());
+    const sortByName = props.sortByName;
+    const sortByDate = props.sortByDate;
+    const toggleFilter = () => {
+      showFilters.value = !showFilters.value;
+    };
+    const toggleMore = () => {
+      showMore.value = !showMore.value;
+    };
+    useClickOutSide(inner_ref, () => {
+      showFilters.value = false;
+    });
+    const handleFilter = (filterType) => {
+      toggleFilter();
+      store.filterList(filterType);
+      filter.value = store.getFilterType();
+    };
+
+    const handleSort = (sortType) => {
+      toggleFilter();
+      store.sortList(sortType);
+      toggleMore();
+      filter.value = store.getFilterType();
+    };
+
+    return {
+      showFilters,
+      toggleFilter,
+      sortByName,
+      inner_ref,
+      sortByDate,
+      handleFilter,
+      handleSort,
+      pageNum,
+      pageCount,
+      toggleMore,
+      showMore,
+      filter,
+    };
+  },
+  components: {
+    FilterIcon,
+  },
+};
+</script>
+
+<template>
+  <div class="relative flex-shrink-0" ref="inner_ref">
+    <div
+      class="flex justify-between border-t border-b border-gray-200 bg-gray-50"
+    >
+      <button
+        @click="toggleFilter"
+        class="flex px-6 py-2 text-sm font-medium text-gray-500"
+      >
+        <svg
+          class="mr-1 h-4 w-4"
+          fill="none"
+          stroke="currentColor"
+          viewBox="0 0 24 24"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+            d="M3 4a1 1 0 011-1h16a1 1 0 011 1v2.586a1 1 0 01-.293.707l-6.414 6.414a1 1 0 00-.293.707V17l-4 4v-6.586a1 1 0 00-.293-.707L3.293 7.293A1 1 0 013 6.586V4z"
+          ></path>
+        </svg>
+        <p>{{ filter }}</p>
+      </button>
+      <div class="flex justify-between bg-gray-50 px-4">
+        <button
+          v-if="pageNum != 0"
+          @click="prevPage"
+          class="px-6 py-2 text-sm font-medium text-gray-500"
+        >
+          <p>Prev</p>
+        </button>
+        <button
+          v-if="pageCount == 10"
+          @click="nextPage"
+          class="px-6 py-2 text-sm font-medium text-gray-500"
+        >
+          <p>Next</p>
+        </button>
+      </div>
+    </div>
+
+    <div
+      v-if="showFilters"
+      class="
+        absolute
+        left-0
+        z-30
+        mt-2
+        w-56
+        origin-top-left
+        divide-y divide-gray-100
+        rounded-md
+        bg-white
+        shadow-lg
+        ring-1 ring-black ring-opacity-5
+        focus:outline-none
+      "
+      role="menu"
+      aria-orientation="vertical"
+      aria-labelledby="menu-1-button"
+      tabindex="-1"
+    >
+      <div class="py-1" role="none">
+        <div
+          @click="handleFilter('AssetStatus')"
+          class="
+            block
+            cursor-pointer
+            px-4
+            py-2
+            text-sm text-gray-700
+            hover:bg-gray-100
+          "
+          role="menuitem"
+          tabindex="-1"
+          id="menu-1-item-0"
+        >
+          Filter by AssetStatus
+        </div>
+        <div
+          @click="handleFilter('ReferenceType')"
+          class="
+            block
+            cursor-pointer
+            px-4
+            py-2
+            text-sm text-gray-700
+            hover:bg-gray-100
+          "
+          role="menuitem"
+          tabindex="-1"
+          id="menu-1-item-0"
+        >
+          Filter by ReferenceType
+        </div>
+        <div
+          @click="handleFilter('StaffExitStatus')"
+          class="
+            block
+            cursor-pointer
+            px-4
+            py-2
+            text-sm text-gray-700
+            hover:bg-gray-100
+          "
+          role="menuitem"
+          tabindex="-1"
+          id="menu-1-item-0"
+        >
+          Filter by StaffExitStatus
+        </div>
+        <div
+          @click="handleFilter('Commodity')"
+          class="
+            block
+            cursor-pointer
+            px-4
+            py-2
+            text-sm text-gray-700
+            hover:bg-gray-100
+          "
+          role="menuitem"
+          tabindex="-1"
+          id="menu-1-item-0"
+        >
+          Filter by Commodity
+        </div>
+      </div>
+
+      <div
+        @mouseenter="toggleMore"
+        @mouseleave="toggleMore"
+        class="relative bg-white hover:bg-gray-100"
+        role="none"
+      >
+        <div class="flex justify-between">
+          <div
+            class="block cursor-pointer px-4 py-2 text-sm text-gray-700"
+            tabindex="-1"
+          >
+            Sort
+          </div>
+          <div class="block cursor-pointer px-2 py-2 text-sm text-gray-700">
+            <svg
+              class="h-4 w-4"
+              fill="none"
+              stroke="currentColor"
+              viewBox="0 0 24 24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                d="M9 5l7 7-7 7"
+              ></path>
+            </svg>
+          </div>
+        </div>
+
+        <div
+          v-if="showMore"
+          class="
+            absolute
+            left-56
+            -top-4
+            z-30
+            mx-0
+            mt-2
+            w-56
+            origin-top-right
+            divide-y divide-gray-100
+            rounded-md
+            border border-gray-200
+            bg-white
+            shadow-lg
+          "
+          role="menu"
+          aria-orientation="vertical"
+          aria-labelledby="menu-1-button"
+        >
+          <div class="py-1" role="none">
+            <div
+              @click="handleSort('name')"
+              class="
+                block
+                cursor-pointer
+                px-4
+                py-2
+                text-sm text-gray-700
+                hover:bg-gray-100
+              "
+              role="menuitem"
+              tabindex="-1"
+              id="menu-1-item-0"
+            >
+              Sort by Name
+            </div>
+            <div
+              @click="handleSort('code')"
+              class="
+                block
+                cursor-pointer
+                px-4
+                py-2
+                text-sm text-gray-700
+                hover:bg-gray-100
+              "
+              role="menuitem"
+              tabindex="-1"
+              id="menu-1-item-0"
+            >
+              Sort by Code
+            </div>
+            <div
+              @click="handleSort('kind')"
+              class="
+                block
+                cursor-pointer
+                px-4
+                py-2
+                text-sm text-gray-700
+                hover:bg-gray-100
+              "
+              role="menuitem"
+              tabindex="-1"
+              id="menu-1-item-1"
+            >
+              Sort by Type
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</template>

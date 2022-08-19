@@ -1,0 +1,3534 @@
+[
+  {
+    "JobLevel": "Management",
+    "Department": "3PL - Sales",
+    "Designation": "Vice President",
+    "Branch": "CONSOLIDATED SHIPPING SERVICES L.L.C.",
+    "AssetType": "Laptop"
+  },
+  {
+    "JobLevel": "Management",
+    "Department": "3PL - Sales",
+    "Designation": "Director",
+    "Branch": "CONSOLIDATED SHIPPING LOGISTICS CENTRE 1 - CFS",
+    "AssetType": "Desktop"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "3PL - Sales",
+    "Designation": "Senior General Manager",
+    "Branch": "CONSOLIDATED SHIPPING LOGISTICS CENTRE 2 - SCM",
+    "AssetType": "Monitor"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "3PL - Sales",
+    "Designation": "General Manager",
+    "Branch": "CSS DELIVERY ORDER COUNTER",
+    "AssetType": "Docking Station"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "3PL - Sales",
+    "Designation": "Assistant General Manager",
+    "Branch": "CONSOLIDATED SHIPPING SERVICES L.L.C. ABU DHABI",
+    "AssetType": "Tablets"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "3PL - Sales",
+    "Designation": "Senior Manager",
+    "Branch": "CONSOLE SHIPPING SERVICES W.L.L. BAHRAIN",
+    "AssetType": "Mobile Phones"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "3PL - Sales",
+    "Designation": "Manager",
+    "Branch": "CONSOLIDATED SHIPPING SERVICES. DAMMAM",
+    "AssetType": "SIM Cards"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "3PL - Sales",
+    "Designation": "Assistant Manager",
+    "Branch": "CONSOLIDATED SHIPPING SERVICES. RIYADH",
+    "AssetType": "Deskphone"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "3PL - Sales",
+    "Designation": "Senior Business Development Manager",
+    "Branch": "CONSOLIDATED SHIPPING SERVICES. JEDDAH",
+    "AssetType": "TV"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "3PL - Sales",
+    "Designation": "Business Development Manager",
+    "Branch": "CONSOLE SHIPPING SERVICES W.L.L. QATAR",
+    "AssetType": "Accessories"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "3PL - Sales",
+    "Designation": "Senior Business Development Executive",
+    "Branch": "COMPREHENSIVE CONSOLIDATED TRADE & SHIPPING L.L.C. OMAN"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "3PL - Sales",
+    "Designation": "Business Development Executive",
+    "Branch": "CONSOLIDATED SHIPPING SERVICES - AIRPORT OFFICE"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "3PL - Sales",
+    "Designation": "Senior Sales Executive",
+    "Branch": "AIR FREIGHT DIVISION WAREHOUSE"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "3PL - Sales",
+    "Designation": "Sales Executive",
+    "Branch": "CSS HOMEWARD BOUND"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "3PL - Sales",
+    "Designation": "Junior Sales Executive",
+    "Branch": "CSS KINGSTON Logistics FZC  – SAIF ZONE"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "3PL - Sales",
+    "Designation": "Tele Sales Executive",
+    "Branch": "CSS KINGSTON Logistics FZC – HAMRIYAH FREE ZONE"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Air Freight - Operations",
+    "Designation": "Senior General Manager",
+    "Branch": "CSS KINGSTON Logistics L.L.C"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Air Freight - Operations",
+    "Designation": "General Manager",
+    "Branch": "CSS KINGSTON Logistics - RAK"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Air Freight - Operations",
+    "Designation": "Assistant General Manager",
+    "Branch": "CSS eLogix"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Air Freight - Operations",
+    "Designation": "Senior Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Air Freight - Operations",
+    "Designation": "Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Air Freight - Operations",
+    "Designation": "Assistant Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Air Freight - Operations",
+    "Designation": "Senior Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Air Freight - Operations",
+    "Designation": "Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Air Freight - Operations",
+    "Designation": "Senior Coordinator"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Air Freight - Operations",
+    "Designation": "Coordinator"
+  },
+  {
+    "JobLevel": "Management",
+    "Department": "Air Freight - Sales",
+    "Designation": "Vice President"
+  },
+  {
+    "JobLevel": "Management",
+    "Department": "Air Freight - Sales",
+    "Designation": "Director"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Air Freight - Sales",
+    "Designation": "Senior General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Air Freight - Sales",
+    "Designation": "General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Air Freight - Sales",
+    "Designation": "Assistant General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Air Freight - Sales",
+    "Designation": "Senior Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Air Freight - Sales",
+    "Designation": "Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Air Freight - Sales",
+    "Designation": "Assistant Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Air Freight - Sales",
+    "Designation": "Senior Business Development Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Air Freight - Sales",
+    "Designation": "Business Development Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Air Freight - Sales",
+    "Designation": "Senior Business Development Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Air Freight - Sales",
+    "Designation": "Business Development Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Air Freight - Sales",
+    "Designation": "Senior Sales Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Air Freight - Sales",
+    "Designation": "Sales Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Air Freight - Sales",
+    "Designation": "Junior Sales Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Air Freight - Sales",
+    "Designation": "Tele Sales Executive"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "CFS - Operations",
+    "Designation": "Senior General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "CFS - Operations",
+    "Designation": "General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "CFS - Operations",
+    "Designation": "Assistant General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "CFS - Operations",
+    "Designation": "Senior Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "CFS - Operations",
+    "Designation": "Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "CFS - Operations",
+    "Designation": "Assistant Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "CFS - Operations",
+    "Designation": "Senior Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "CFS - Operations",
+    "Designation": "Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "CFS - Operations",
+    "Designation": "Senior Coordinator"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "CFS - Operations",
+    "Designation": "Coordinator"
+  },
+  {
+    "JobLevel": "Management",
+    "Department": "CHR Networks - Sales",
+    "Designation": "Vice President"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "CHR Networks - Sales",
+    "Designation": "Senior General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "CHR Networks - Sales",
+    "Designation": "General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "CHR Networks - Sales",
+    "Designation": "Assistant General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "CHR Networks - Sales",
+    "Designation": "Senior Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "CHR Networks - Sales",
+    "Designation": "Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "CHR Networks - Sales",
+    "Designation": "Assistant Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "CHR Networks - Sales",
+    "Designation": "Team Leader"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "CHR Networks - Sales",
+    "Designation": "Senior Coordinator"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "CHR Networks - Sales",
+    "Designation": "Coordinator"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Customer Service - Operations",
+    "Designation": "Senior General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Customer Service - Operations",
+    "Designation": "General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Customer Service - Operations",
+    "Designation": "Assistant General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Customer Service - Operations",
+    "Designation": "Senior Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Customer Service - Operations",
+    "Designation": "Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Customer Service - Operations",
+    "Designation": "Assistant Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Customer Service - Operations",
+    "Designation": "Senior Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Customer Service - Operations",
+    "Designation": "Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Customer Service - Operations",
+    "Designation": "Senior Coordinator"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Customer Service - Operations",
+    "Designation": "Coordinator"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Documentation - Operations",
+    "Designation": "Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Documentation - Operations",
+    "Designation": "Assistant Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Documentation - Operations",
+    "Designation": "Team Leader"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Documentation - Operations",
+    "Designation": "Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Documentation - Operations",
+    "Designation": "Senior Coordinator"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Documentation - Operations",
+    "Designation": "Coordinator"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Documentation - Operations",
+    "Designation": "Clerk"
+  },
+  {
+    "JobLevel": "Worker",
+    "Department": "Documentation - Operations",
+    "Designation": "Messenger"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "eLogix - Operations",
+    "Designation": "Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "eLogix - Operations",
+    "Designation": "Assistant Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "eLogix - Operations",
+    "Designation": "Team Leader"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "eLogix - Operations",
+    "Designation": "Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "eLogix - Operations",
+    "Designation": "Senior Coordinator"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "eLogix - Operations",
+    "Designation": "Coordinator"
+  },
+  {
+    "JobLevel": "Worker",
+    "Department": "eLogix - Operations",
+    "Designation": "Packer"
+  },
+  {
+    "JobLevel": "Worker",
+    "Department": "eLogix - Operations",
+    "Designation": "Helper"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "eLogix - Sales",
+    "Designation": "Vice President"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "eLogix - Sales",
+    "Designation": "Senior General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "eLogix - Sales",
+    "Designation": "General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "eLogix - Sales",
+    "Designation": "Assistant General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "eLogix - Sales",
+    "Designation": "Senior Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "eLogix - Sales",
+    "Designation": "Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "eLogix - Sales",
+    "Designation": "Assistant Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "eLogix - Sales",
+    "Designation": "Team Leader"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "eLogix - Sales",
+    "Designation": "Senior Coordinator"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "eLogix - Sales",
+    "Designation": "Coordinator"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Finance",
+    "Designation": "Chief Financial Officer"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Finance",
+    "Designation": "Financial Director"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Finance",
+    "Designation": "Finance Controller"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Finance",
+    "Designation": "Financial Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Finance",
+    "Designation": "Assistant Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Finance - Accounting",
+    "Designation": "Senior Accountant"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Finance - Accounting",
+    "Designation": "Accountant"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Finance - Accounting",
+    "Designation": "Accounting Assistant"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Finance - Credit",
+    "Designation": "Credit Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Finance - Credit",
+    "Designation": "Senior Credit Controller"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Finance - Credit",
+    "Designation": "Credit Controller"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Finance - Treasury",
+    "Designation": "Treasury Accountant"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Forwarding - Operations",
+    "Designation": "Senior General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Forwarding - Operations",
+    "Designation": "General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Forwarding - Operations",
+    "Designation": "Assistant General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Forwarding - Operations",
+    "Designation": "Senior Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Forwarding - Operations",
+    "Designation": "Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Forwarding - Operations",
+    "Designation": "Assistant Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Forwarding - Operations",
+    "Designation": "Senior Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Forwarding - Operations",
+    "Designation": "Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Forwarding - Operations",
+    "Designation": "Senior Coordinator"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Forwarding - Operations",
+    "Designation": "Coordinator"
+  },
+  {
+    "JobLevel": "Management",
+    "Department": "Forwarding - Sales",
+    "Designation": "Vice President"
+  },
+  {
+    "JobLevel": "Management",
+    "Department": "Forwarding - Sales",
+    "Designation": "Director"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Forwarding - Sales",
+    "Designation": "Senior General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Forwarding - Sales",
+    "Designation": "General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Forwarding - Sales",
+    "Designation": "Assistant General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Forwarding - Sales",
+    "Designation": "Senior Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Forwarding - Sales",
+    "Designation": "Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Forwarding - Sales",
+    "Designation": "Assistant Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Forwarding - Sales",
+    "Designation": "Senior Business Development Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Forwarding - Sales",
+    "Designation": "Business Development Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Forwarding - Sales",
+    "Designation": "Senior Business Development Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Forwarding - Sales",
+    "Designation": "Business Development Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Forwarding - Sales",
+    "Designation": "Senior Sales Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Forwarding - Sales",
+    "Designation": "Sales Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Forwarding - Sales",
+    "Designation": "Junior Sales Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Forwarding - Sales",
+    "Designation": "Tele Sales Executive"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "HR & Administration",
+    "Designation": "Chief Human Resource Officer"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "HR & Administration",
+    "Designation": "Human Resources Director"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "HR & Administration",
+    "Designation": "Human Resources Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "HR & Administration",
+    "Designation": "Human Resources Senior Officer"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "HR & Administration",
+    "Designation": "Human Resources Officer"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "HR & Administration",
+    "Designation": "Human Resources Coordinator"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "HR & Administration",
+    "Designation": "Human Resources Assistant"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "HR & Administration",
+    "Designation": "Administration Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "HR & Administration",
+    "Designation": "Administration Senior Officer"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "HR & Administration",
+    "Designation": "Administration Officer"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "HR & Administration",
+    "Designation": "Administration Coordinator"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "HR & Administration",
+    "Designation": "Administration Assistant"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "HR & Administration - Front Desk",
+    "Designation": "Receptionist"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "HR & Administration - Health & Safety",
+    "Designation": "HSE Officer"
+  },
+  {
+    "JobLevel": "Worker",
+    "Department": "HR & Administration - Health & Safety",
+    "Designation": "Office Assistant"
+  },
+  {
+    "JobLevel": "Worker",
+    "Department": "HR & Administration - Health & Safety",
+    "Designation": "Cleaner"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "HR & Administration - Security",
+    "Designation": "Chief Security"
+  },
+  {
+    "JobLevel": "Worker",
+    "Department": "HR & Administration - Security",
+    "Designation": "Senior Security"
+  },
+  {
+    "JobLevel": "Worker",
+    "Department": "HR & Administration - Security",
+    "Designation": "Security"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "IT",
+    "Designation": "Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "IT",
+    "Designation": "Assistant Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "IT",
+    "Designation": "Supervisor (Team Leader - IT & Network Engineer)"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "IT",
+    "Designation": "Engineer (IT & Network Engineer)"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "IT",
+    "Designation": "Junior Engineer (Jr. IT & Network Engineer)"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Key Accounts - Operations",
+    "Designation": "Senior General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Key Accounts - Operations",
+    "Designation": "General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Key Accounts - Operations",
+    "Designation": "Assistant General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Key Accounts - Operations",
+    "Designation": "Senior Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Key Accounts - Operations",
+    "Designation": "Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Key Accounts - Operations",
+    "Designation": "Assistant Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Key Accounts - Operations",
+    "Designation": "Senior Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Key Accounts - Operations",
+    "Designation": "Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Key Accounts - Operations",
+    "Designation": "Senior Coordinator"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Key Accounts - Operations",
+    "Designation": "Coordinator"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Key Information Desk - Operations",
+    "Designation": "Senior General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Key Information Desk - Operations",
+    "Designation": "General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Key Information Desk - Operations",
+    "Designation": "Assistant General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Key Information Desk - Operations",
+    "Designation": "Senior Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Key Information Desk - Operations",
+    "Designation": "Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Key Information Desk - Operations",
+    "Designation": "Assistant Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Key Information Desk - Operations",
+    "Designation": "Senior Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Key Information Desk - Operations",
+    "Designation": "Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Key Information Desk - Operations",
+    "Designation": "Senior Coordinator"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Key Information Desk - Operations",
+    "Designation": "Coordinator"
+  },
+  {
+    "JobLevel": "Management",
+    "Department": "Management",
+    "Designation": "Chairman"
+  },
+  {
+    "JobLevel": "Management",
+    "Department": "Management",
+    "Designation": "Chief Executive Officer"
+  },
+  {
+    "JobLevel": "Management",
+    "Department": "Management",
+    "Designation": "Chief Operating Officer"
+  },
+  {
+    "JobLevel": "Management",
+    "Department": "Management",
+    "Designation": "Chief Financial Officer"
+  },
+  {
+    "JobLevel": "Management",
+    "Department": "Management",
+    "Designation": "Senior Vice President"
+  },
+  {
+    "JobLevel": "Management",
+    "Department": "Management",
+    "Designation": "Vice President"
+  },
+  {
+    "JobLevel": "Management",
+    "Department": "Management",
+    "Designation": "Director"
+  },
+  {
+    "JobLevel": "Management",
+    "Department": "Management",
+    "Designation": "Executive Assistant to the Chairman"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Marketing",
+    "Designation": "General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Marketing",
+    "Designation": "Assistant General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Marketing",
+    "Designation": "Senior Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Marketing",
+    "Designation": "Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Marketing",
+    "Designation": "Assistant Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Marketing",
+    "Designation": "Senior Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Marketing",
+    "Designation": "Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Marketing",
+    "Designation": "Coordinator"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "NVOCC - Operations",
+    "Designation": "Senior General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "NVOCC - Operations",
+    "Designation": "General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "NVOCC - Operations",
+    "Designation": "Assistant General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "NVOCC - Operations",
+    "Designation": "Senior Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "NVOCC - Operations",
+    "Designation": "Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "NVOCC - Operations",
+    "Designation": "Assistant Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "NVOCC - Operations",
+    "Designation": "Senior Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "NVOCC - Operations",
+    "Designation": "Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "NVOCC - Operations",
+    "Designation": "Senior Coordinator"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "NVOCC - Operations",
+    "Designation": "Coordinator"
+  },
+  {
+    "JobLevel": "Management",
+    "Department": "NVOCC - Sales",
+    "Designation": "Vice President"
+  },
+  {
+    "JobLevel": "Management",
+    "Department": "NVOCC - Sales",
+    "Designation": "Director"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "NVOCC - Sales",
+    "Designation": "Senior General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "NVOCC - Sales",
+    "Designation": "General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "NVOCC - Sales",
+    "Designation": "Assistant General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "NVOCC - Sales",
+    "Designation": "Senior Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "NVOCC - Sales",
+    "Designation": "Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "NVOCC - Sales",
+    "Designation": "Assistant Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "NVOCC - Sales",
+    "Designation": "Senior Business Development Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "NVOCC - Sales",
+    "Designation": "Business Development Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "NVOCC - Sales",
+    "Designation": "Senior Business Development Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "NVOCC - Sales",
+    "Designation": "Business Development Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "NVOCC - Sales",
+    "Designation": "Senior Sales Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "NVOCC - Sales",
+    "Designation": "Sales Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "NVOCC - Sales",
+    "Designation": "Junior Sales Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "NVOCC - Sales",
+    "Designation": "Tele Sales Executive"
+  },
+  {
+    "JobLevel": "Management",
+    "Department": "Ocean Freight - Sales",
+    "Designation": "Vice President"
+  },
+  {
+    "JobLevel": "Management",
+    "Department": "Ocean Freight - Sales",
+    "Designation": "Director"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Ocean Freight - Sales",
+    "Designation": "Senior General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Ocean Freight - Sales",
+    "Designation": "General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Ocean Freight - Sales",
+    "Designation": "Assistant General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Ocean Freight - Sales",
+    "Designation": "Senior Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Ocean Freight - Sales",
+    "Designation": "Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Ocean Freight - Sales",
+    "Designation": "Assistant Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Ocean Freight - Sales",
+    "Designation": "Senior Business Development Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Ocean Freight - Sales",
+    "Designation": "Business Development Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Ocean Freight - Sales",
+    "Designation": "Senior Business Development Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Ocean Freight - Sales",
+    "Designation": "Business Development Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Ocean Freight - Sales",
+    "Designation": "Senior Sales Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Ocean Freight - Sales",
+    "Designation": "Sales Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Ocean Freight - Sales",
+    "Designation": "Junior Sales Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Ocean Freight - Sales",
+    "Designation": "Tele Sales Executive"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Pricing - Air & Sea - Operations",
+    "Designation": "Senior Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Pricing - Air & Sea - Operations",
+    "Designation": "Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Pricing - Air & Sea - Operations",
+    "Designation": "Assistant Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Pricing - Air & Sea - Operations",
+    "Designation": "Analyst"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Pricing - Air & Sea - Operations",
+    "Designation": "Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Pricing - Air & Sea - Operations",
+    "Designation": "Coordinator"
+  },
+  {
+    "JobLevel": "Management",
+    "Department": "Projects - Oil & Energy",
+    "Designation": "Vice President"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Projects - Oil & Energy",
+    "Designation": "Senior General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Projects - Oil & Energy",
+    "Designation": "General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Projects - Oil & Energy",
+    "Designation": "Assistant General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Projects - Oil & Energy",
+    "Designation": "Senior Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Projects - Oil & Energy",
+    "Designation": "Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Projects - Oil & Energy",
+    "Designation": "Assistant Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Projects - Oil & Energy",
+    "Designation": "Senior  Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Projects - Oil & Energy",
+    "Designation": "Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Projects - Oil & Energy",
+    "Designation": "Senior Coordinator"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Projects - Oil & Energy",
+    "Designation": "Coordinator"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "SCM - Operations",
+    "Designation": "Senior General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "SCM - Operations",
+    "Designation": "General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "SCM - Operations",
+    "Designation": "Assistant General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "SCM - Operations",
+    "Designation": "Senior Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "SCM - Operations",
+    "Designation": "Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "SCM - Operations",
+    "Designation": "Assistant Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "SCM - Operations",
+    "Designation": "Senior Operations Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "SCM - Operations",
+    "Designation": "Operations Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "SCM - Operations",
+    "Designation": "Senior Operations Coordinator"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "SCM - Operations",
+    "Designation": "Operations Coordinator"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Transport",
+    "Designation": "Senior Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Transport",
+    "Designation": "Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Transport",
+    "Designation": "Assistant Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Transport",
+    "Designation": "Senior Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Transport",
+    "Designation": "Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Transport",
+    "Designation": "Senior Coordinator"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Transport",
+    "Designation": "Coordinator"
+  },
+  {
+    "JobLevel": "Worker",
+    "Department": "Transport",
+    "Designation": "Heavy Duty Driver"
+  },
+  {
+    "JobLevel": "Worker",
+    "Department": "Transport",
+    "Designation": "Light Vehicle Driver"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Warehouse - Operations",
+    "Designation": "Warehouse Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Warehouse - Operations",
+    "Designation": "Warehouse Incharge"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Warehouse - Operations",
+    "Designation": "Warehouse Team Leader"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Warehouse - Operations",
+    "Designation": "Warehouse Supervisor"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Warehouse - Operations",
+    "Designation": "Warehouse Coordinator"
+  },
+  {
+    "JobLevel": "Worker",
+    "Department": "Warehouse - Operations",
+    "Designation": "Carpenter"
+  },
+  {
+    "JobLevel": "Worker",
+    "Department": "Warehouse - Operations",
+    "Designation": "Senior Forklift Operator"
+  },
+  {
+    "JobLevel": "Worker",
+    "Department": "Warehouse - Operations",
+    "Designation": "Forklift Operator"
+  },
+  {
+    "JobLevel": "Worker",
+    "Department": "Warehouse - Operations",
+    "Designation": "Senior Tally Clerk"
+  },
+  {
+    "JobLevel": "Worker",
+    "Department": "Warehouse - Operations",
+    "Designation": "Tally Clerk"
+  },
+  {
+    "JobLevel": "Worker",
+    "Department": "Warehouse - Operations",
+    "Designation": "Labour"
+  },
+
+  {
+    "JobLevel": "Management",
+    "Department": "Management",
+    "Designation": "Chairman",
+    "AssetType": "Laptop"
+  },
+  {
+    "JobLevel": "Management",
+    "Department": "Management",
+    "Designation": "Chief Financial Officer",
+    "AssetType": "Desktop"
+  },
+  {
+    "JobLevel": "Management",
+    "Department": "Management",
+    "Designation": "Chief Operating Officer",
+    "AssetType": "Monitor"
+  },
+  {
+    "JobLevel": "Management",
+    "Department": "Management",
+    "Designation": "Director",
+    "AssetType": "Docking Station"
+  },
+  {
+    "JobLevel": "Management",
+    "Department": "Management",
+    "Designation": "General Manager",
+    "AssetType": "Tablets"
+  },
+  {
+    "JobLevel": "Management",
+    "Department": "Management",
+    "Designation": "Vice President",
+    "AssetType": "Mobile Phones"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "3PL",
+    "Designation": "Asst. Manager | Manager | Sr. Manager",
+    "AssetType": "SIM Cards"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Air Freight",
+    "Designation": "Asst. Manager | Manager | Sr. Manager",
+    "AssetType": "Deskphone"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "CFS & NVOCC",
+    "Designation": "Asst. Manager | Manager | Sr. Manager",
+    "AssetType": "TV"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "CHR Networks",
+    "Designation": "Asst. Manager | Manager | Sr. Manager",
+    "AssetType": "Accessories"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Documentation & Forwarding",
+    "Designation": "Asst. Manager | Manager | Sr. Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Finance",
+    "Designation": "Asst. Manager | Manager | Sr. Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Forwarding",
+    "Designation": "Asst. Manager | Manager | Sr. Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "HR & Administration",
+    "Designation": "Asst. Manager | Manager | Sr. Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "HSE",
+    "Designation": "Asst. Manager | Manager | Sr. Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "IT",
+    "Designation": "Asst. Manager | Manager | Sr. Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "KEY Accounts ",
+    "Designation": "Asst. Manager | Manager | Sr. Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "KEY Information Desk",
+    "Designation": "Asst. Manager | Manager | Sr. Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Operations",
+    "Designation": "Asst. Manager | Manager | Sr. Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Operations - AirFreight",
+    "Designation": "Asst. Manager | Manager | Sr. Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Operations - Forwarding",
+    "Designation": "Asst. Manager | Manager | Sr. Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Operations - NVOCC",
+    "Designation": "Asst. Manager | Manager | Sr. Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Pricing - AirFreight",
+    "Designation": "Asst. Manager | Manager | Sr. Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Pricing - Ocean Freight",
+    "Designation": "Asst. Manager | Manager | Sr. Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Projects",
+    "Designation": "Asst. Manager | Manager | Sr. Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Projects & Oil Energy",
+    "Designation": "Asst. Manager | Manager | Sr. Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Sales",
+    "Designation": "Asst. Manager | Manager | Sr. Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Sales - 3PL",
+    "Designation": "Asst. Manager | Manager | Sr. Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Sales - AirFreight",
+    "Designation": "Asst. Manager | Manager | Sr. Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Sales - Forwarding",
+    "Designation": "Asst. Manager | Manager | Sr. Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Sales - Land & Transportation",
+    "Designation": "Asst. Manager | Manager | Sr. Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Sales - NVOCC",
+    "Designation": "Asst. Manager | Manager | Sr. Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Sales - Ocean Freight",
+    "Designation": "Asst. Manager | Manager | Sr. Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "SCM",
+    "Designation": "Asst. Manager | Manager | Sr. Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Transport",
+    "Designation": "Asst. Manager | Manager | Sr. Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Warehousing",
+    "Designation": "Asst. Manager | Manager | Sr. Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "HR & Administration",
+    "Designation": "General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Projects",
+    "Designation": "General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Sales",
+    "Designation": "General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Sales - 3PL",
+    "Designation": "General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Sales - AirFreight",
+    "Designation": "General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Sales - Forwarding",
+    "Designation": "General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Sales - Land & Transportation",
+    "Designation": "General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Sales - NVOCC",
+    "Designation": "General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Sales - Ocean Freight",
+    "Designation": "General Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "3PL",
+    "Designation": "Jr. | Sr. | Coordinator - 3PL"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Air Freight",
+    "Designation": "Jr. | Sr. | Coordinator - Air Freight"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "CFS & NVOCC",
+    "Designation": "Jr. | Sr. | Coordinator - CFS & NVOCC"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "CHR Networks",
+    "Designation": "Jr. | Sr. | Coordinator - CHR Networks"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Documentation & Forwarding",
+    "Designation": "Jr. | Sr. | Coordinator - Documentation & Forwarding"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Finance",
+    "Designation": "Jr. | Sr. | Coordinator - Finance"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Forwarding",
+    "Designation": "Jr. | Sr. | Coordinator - Forwarding"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "HR & Administration",
+    "Designation": "Jr. | Sr. | Coordinator - HR & Administration"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "HSE",
+    "Designation": "Jr. | Sr. | Coordinator - HSE"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "IT",
+    "Designation": "Jr. | Sr. | Coordinator - IT"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "KEY Accounts",
+    "Designation": "Jr. | Sr. | Coordinator - KEY Accounts"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "KEY Information Desk",
+    "Designation": "Jr. | Sr. | Coordinator - KEY Information Desk"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Operations",
+    "Designation": "Jr. | Sr. | Coordinator - Operations"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Operations - AirFreight",
+    "Designation": "Jr. | Sr. | Coordinator - Operations - AirFreight"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Operations - Forwarding",
+    "Designation": "Jr. | Sr. | Coordinator - Operations - Forwarding"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Operations - NVOCC",
+    "Designation": "Jr. | Sr. | Coordinator - Operations - NVOCC"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Pricing - AirFreight",
+    "Designation": "Jr. | Sr. | Coordinator - Pricing - AirFreight"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Pricing - Ocean Freight",
+    "Designation": "Jr. | Sr. | Coordinator - Pricing - Ocean Freight"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Projects",
+    "Designation": "Jr. | Sr. | Coordinator - Projects"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Projects & Oil Energy",
+    "Designation": "Jr. | Sr. | Coordinator - Projects & Oil Energy"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Sales",
+    "Designation": "Jr. | Sr. | Coordinator - Sales"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Sales - 3PL",
+    "Designation": "Jr. | Sr. | Coordinator - Sales - 3PL"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Sales - AirFreight",
+    "Designation": "Jr. | Sr. | Coordinator - Sales - AirFreight"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Sales - Forwarding",
+    "Designation": "Jr. | Sr. | Coordinator - Sales - Forwarding"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Sales - Land & Transportation",
+    "Designation": "Jr. | Sr. | Coordinator - Sales - Land & Transportation"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Sales - NVOCC",
+    "Designation": "Jr. | Sr. | Coordinator - Sales - NVOCC"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Sales - Ocean Freight",
+    "Designation": "Jr. | Sr. | Coordinator - Sales - Ocean Freight"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "SCM",
+    "Designation": "Jr. | Sr. | Coordinator - SCM"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Transport",
+    "Designation": "Jr. | Sr. | Coordinator - Transport"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Warehousing",
+    "Designation": "Jr. | Sr. | Coordinator - Warehousing"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Finance",
+    "Designation": "Jr. | Sr. | Credit Controller "
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Operations",
+    "Designation": "Jr. | Sr. | Customs Clearance Clerk"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Pricing",
+    "Designation": "Jr. | Sr. | Executive - Pricing "
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Pricing - 3PL",
+    "Designation": "Jr. | Sr. | Executive - Pricing "
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Pricing - AirFreight",
+    "Designation": "Jr. | Sr. | Executive - Pricing "
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Pricing - Forwarding",
+    "Designation": "Jr. | Sr. | Executive - Pricing "
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Pricing - Land & Transportation",
+    "Designation": "Jr. | Sr. | Executive - Pricing "
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Pricing - NVOCC",
+    "Designation": "Jr. | Sr. | Executive - Pricing "
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Pricing - Ocean Freight",
+    "Designation": "Jr. | Sr. | Executive - Pricing "
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Sales",
+    "Designation": "Jr. | Sr. | Executive - Sales & Admin"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "HR & Administration",
+    "Designation": "Jr. | Sr. | Executive Secretary"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "HSE",
+    "Designation": "Jr. | Sr. | HSE Officer"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "IT",
+    "Designation": "Jr. | Sr. | IT Network Engineer"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Marketing",
+    "Designation": "Jr. | Sr. | Marketing Assistant"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Pricing",
+    "Designation": "Jr. | Sr. | Pricing Analyst"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Pricing - 3PL",
+    "Designation": "Jr. | Sr. | Pricing Analyst"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Pricing - AirFreight",
+    "Designation": "Jr. | Sr. | Pricing Analyst"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Pricing - Forwarding",
+    "Designation": "Jr. | Sr. | Pricing Analyst"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Pricing - Land & Transportation",
+    "Designation": "Jr. | Sr. | Pricing Analyst"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Pricing - NVOCC",
+    "Designation": "Jr. | Sr. | Pricing Analyst"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Pricing - Ocean Freight",
+    "Designation": "Jr. | Sr. | Pricing Analyst"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Sales",
+    "Designation": "Jr. | Sr. | Sales Executive - "
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Sales - 3PL",
+    "Designation": "Jr. | Sr. | Sales Executive - "
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Sales - AirFreight",
+    "Designation": "Jr. | Sr. | Sales Executive - "
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Sales - Forwarding",
+    "Designation": "Jr. | Sr. | Sales Executive - "
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Sales - Land & Transportation",
+    "Designation": "Jr. | Sr. | Sales Executive - "
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Sales - NVOCC",
+    "Designation": "Jr. | Sr. | Sales Executive - "
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Sales - Ocean Freight",
+    "Designation": "Jr. | Sr. | Sales Executive - "
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Operations",
+    "Designation": "Operations Assistant"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "HSE",
+    "Designation": "Security Chief"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Projects",
+    "Designation": "Sr. | Business Development Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Sales",
+    "Designation": "Sr. | Business Development Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Sales - 3PL",
+    "Designation": "Sr. | Business Development Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Sales - AirFreight",
+    "Designation": "Sr. | Business Development Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Sales - Forwarding",
+    "Designation": "Sr. | Business Development Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Sales - Land & Transportation",
+    "Designation": "Sr. | Business Development Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Sales - NVOCC",
+    "Designation": "Sr. | Business Development Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Sales - Ocean Freight",
+    "Designation": "Sr. | Business Development Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Projects",
+    "Designation": "Sr. | Business Development Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Sales",
+    "Designation": "Sr. | Business Development Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Sales - 3PL",
+    "Designation": "Sr. | Business Development Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Sales - AirFreight",
+    "Designation": "Sr. | Business Development Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Sales - Forwarding",
+    "Designation": "Sr. | Business Development Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Sales - Land & Transportation",
+    "Designation": "Sr. | Business Development Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Sales - NVOCC",
+    "Designation": "Sr. | Business Development Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Sales - Ocean Freight",
+    "Designation": "Sr. | Business Development Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Operations",
+    "Designation": "Supervisor"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Operations",
+    "Designation": "Team Leader - Operations"
+  },
+  {
+    "JobLevel": "Worker",
+    "Department": "Operations",
+    "Designation": "Driver"
+  },
+  {
+    "JobLevel": "Worker",
+    "Department": "Operations",
+    "Designation": "Messenger"
+  },
+  {
+    "Department": "Operations - Forwarding"
+  },
+  {
+    "Department": "Operations - NVOCC"
+  },
+
+  {
+    "JobLevel": "Management",
+    "Department": "Management",
+    "Designation": "Chairman",
+    "AssetType": "Laptop"
+  },
+  {
+    "JobLevel": "Management",
+    "Department": "Management",
+    "Designation": "Chief Executive Officer",
+    "AssetType": "Desktop"
+  },
+  {
+    "JobLevel": "Management",
+    "Department": "Management",
+    "Designation": "Chief Operating Officer",
+    "AssetType": "Monitor"
+  },
+  {
+    "JobLevel": "Management",
+    "Department": "Management",
+    "Designation": "Chief Financial Officer",
+    "AssetType": "Docking Station"
+  },
+  {
+    "JobLevel": "Management",
+    "Department": "Management",
+    "Designation": "Senior Vice President",
+    "AssetType": "Tablets"
+  },
+  {
+    "JobLevel": "Management",
+    "Department": "Management",
+    "Designation": "Vice President",
+    "AssetType": "Mobile Phones"
+  },
+  {
+    "JobLevel": "Management",
+    "Department": "Management",
+    "Designation": "Director",
+    "AssetType": "SIM Cards"
+  },
+  {
+    "JobLevel": "Management",
+    "Department": "Management",
+    "Designation": "Executive Assistant to the Chairman",
+    "AssetType": "Deskphone"
+  },
+  {
+    "JobLevel": "Management",
+    "Department": "Forwarding - Sales",
+    "Designation": "Vice President",
+    "AssetType": "TV"
+  },
+  {
+    "JobLevel": "Management",
+    "Department": "Forwarding - Sales",
+    "Designation": "Director",
+    "AssetType": "Accessories"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Forwarding - Sales",
+    "Designation": "Senior General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Forwarding - Sales",
+    "Designation": "General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Forwarding - Sales",
+    "Designation": "Assistant General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Forwarding - Sales",
+    "Designation": "Senior Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Forwarding - Sales",
+    "Designation": "Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Forwarding - Sales",
+    "Designation": "Assistant Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Forwarding - Sales",
+    "Designation": "Senior Business Development Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Forwarding - Sales",
+    "Designation": "Business Development Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Forwarding - Sales",
+    "Designation": "Senior Business Development Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Forwarding - Sales",
+    "Designation": "Business Development Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Forwarding - Sales",
+    "Designation": "Senior Sales Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Forwarding - Sales",
+    "Designation": "Sales Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Forwarding - Sales",
+    "Designation": "Junior Sales Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Forwarding - Sales",
+    "Designation": "Tele Sales Executive"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Forwarding - Operations",
+    "Designation": "Senior General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Forwarding - Operations",
+    "Designation": "General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Forwarding - Operations",
+    "Designation": "Assistant General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Forwarding - Operations",
+    "Designation": "Senior Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Forwarding - Operations",
+    "Designation": "Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Forwarding - Operations",
+    "Designation": "Assistant Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Forwarding - Operations",
+    "Designation": "Senior Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Forwarding - Operations",
+    "Designation": "Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Forwarding - Operations",
+    "Designation": "Senior Coordinator"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Forwarding - Operations",
+    "Designation": "Coordinator"
+  },
+  {
+    "JobLevel": "Management",
+    "Department": "Ocean Freight - Sales",
+    "Designation": "Vice President"
+  },
+  {
+    "JobLevel": "Management",
+    "Department": "Ocean Freight - Sales",
+    "Designation": "Director"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Ocean Freight - Sales",
+    "Designation": "Senior General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Ocean Freight - Sales",
+    "Designation": "General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Ocean Freight - Sales",
+    "Designation": "Assistant General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Ocean Freight - Sales",
+    "Designation": "Senior Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Ocean Freight - Sales",
+    "Designation": "Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Ocean Freight - Sales",
+    "Designation": "Assistant Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Ocean Freight - Sales",
+    "Designation": "Senior Business Development Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Ocean Freight - Sales",
+    "Designation": "Business Development Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Ocean Freight - Sales",
+    "Designation": "Senior Business Development Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Ocean Freight - Sales",
+    "Designation": "Business Development Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Ocean Freight - Sales",
+    "Designation": "Senior Sales Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Ocean Freight - Sales",
+    "Designation": "Sales Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Ocean Freight - Sales",
+    "Designation": "Junior Sales Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Ocean Freight - Sales",
+    "Designation": "Tele Sales Executive"
+  },
+  {
+    "JobLevel": "Management",
+    "Department": "Air Freight - Sales",
+    "Designation": "Vice President"
+  },
+  {
+    "JobLevel": "Management",
+    "Department": "Air Freight - Sales",
+    "Designation": "Director"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Air Freight - Sales",
+    "Designation": "Senior General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Air Freight - Sales",
+    "Designation": "General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Air Freight - Sales",
+    "Designation": "Assistant General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Air Freight - Sales",
+    "Designation": "Senior Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Air Freight - Sales",
+    "Designation": "Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Air Freight - Sales",
+    "Designation": "Assistant Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Air Freight - Sales",
+    "Designation": "Senior Business Development Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Air Freight - Sales",
+    "Designation": "Business Development Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Air Freight - Sales",
+    "Designation": "Senior Business Development Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Air Freight - Sales",
+    "Designation": "Business Development Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Air Freight - Sales",
+    "Designation": "Senior Sales Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Air Freight - Sales",
+    "Designation": "Sales Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Air Freight - Sales",
+    "Designation": "Junior Sales Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Air Freight - Sales",
+    "Designation": "Tele Sales Executive"
+  },
+  {
+    "JobLevel": "Management",
+    "Department": "3PL - Sales",
+    "Designation": "Vice President"
+  },
+  {
+    "JobLevel": "Management",
+    "Department": "3PL - Sales",
+    "Designation": "Director"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "3PL - Sales",
+    "Designation": "Senior General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "3PL - Sales",
+    "Designation": "General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "3PL - Sales",
+    "Designation": "Assistant General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "3PL - Sales",
+    "Designation": "Senior Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "3PL - Sales",
+    "Designation": "Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "3PL - Sales",
+    "Designation": "Assistant Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "3PL - Sales",
+    "Designation": "Senior Business Development Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "3PL - Sales",
+    "Designation": "Business Development Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "3PL - Sales",
+    "Designation": "Senior Business Development Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "3PL - Sales",
+    "Designation": "Business Development Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "3PL - Sales",
+    "Designation": "Senior Sales Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "3PL - Sales",
+    "Designation": "Sales Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "3PL - Sales",
+    "Designation": "Junior Sales Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "3PL - Sales",
+    "Designation": "Tele Sales Executive"
+  },
+  {
+    "JobLevel": "Management",
+    "Department": "NVOCC - Sales",
+    "Designation": "Vice President"
+  },
+  {
+    "JobLevel": "Management",
+    "Department": "NVOCC - Sales",
+    "Designation": "Director"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "NVOCC - Sales",
+    "Designation": "Senior General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "NVOCC - Sales",
+    "Designation": "General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "NVOCC - Sales",
+    "Designation": "Assistant General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "NVOCC - Sales",
+    "Designation": "Senior Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "NVOCC - Sales",
+    "Designation": "Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "NVOCC - Sales",
+    "Designation": "Assistant Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "NVOCC - Sales",
+    "Designation": "Senior Business Development Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "NVOCC - Sales",
+    "Designation": "Business Development Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "NVOCC - Sales",
+    "Designation": "Senior Business Development Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "NVOCC - Sales",
+    "Designation": "Business Development Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "NVOCC - Sales",
+    "Designation": "Senior Sales Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "NVOCC - Sales",
+    "Designation": "Sales Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "NVOCC - Sales",
+    "Designation": "Junior Sales Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "NVOCC - Sales",
+    "Designation": "Tele Sales Executive"
+  },
+  {
+    "JobLevel": "Management",
+    "Department": "CHR Networks - Sales",
+    "Designation": "Vice President"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "CHR Networks - Sales",
+    "Designation": "Senior General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "CHR Networks - Sales",
+    "Designation": "General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "CHR Networks - Sales",
+    "Designation": "Assistant General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "CHR Networks - Sales",
+    "Designation": "Senior Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "CHR Networks - Sales",
+    "Designation": "Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "CHR Networks - Sales",
+    "Designation": "Assistant Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "CHR Networks - Sales",
+    "Designation": "Team Leader"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "CHR Networks - Sales",
+    "Designation": "Senior Coordinator"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "CHR Networks - Sales",
+    "Designation": "Coordinator"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "NVOCC - Operations",
+    "Designation": "Senior General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "NVOCC - Operations",
+    "Designation": "General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "NVOCC - Operations",
+    "Designation": "Assistant General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "NVOCC - Operations",
+    "Designation": "Senior Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "NVOCC - Operations",
+    "Designation": "Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "NVOCC - Operations",
+    "Designation": "Assistant Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "NVOCC - Operations",
+    "Designation": "Senior Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "NVOCC - Operations",
+    "Designation": "Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "NVOCC - Operations",
+    "Designation": "Senior Coordinator"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "NVOCC - Operations",
+    "Designation": "Coordinator"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "AIR FREIGHT - Operations",
+    "Designation": "Senior General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "AIR FREIGHT - Operations",
+    "Designation": "General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "AIR FREIGHT - Operations",
+    "Designation": "Assistant General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "AIR FREIGHT - Operations",
+    "Designation": "Senior Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "AIR FREIGHT - Operations",
+    "Designation": "Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "AIR FREIGHT - Operations",
+    "Designation": "Assistant Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "AIR FREIGHT - Operations",
+    "Designation": "Senior Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "AIR FREIGHT - Operations",
+    "Designation": "Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "AIR FREIGHT - Operations",
+    "Designation": "Senior Coordinator"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "AIR FREIGHT - Operations",
+    "Designation": "Coordinator"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "CFS - Operations",
+    "Designation": "Senior General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "CFS - Operations",
+    "Designation": "General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "CFS - Operations",
+    "Designation": "Assistant General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "CFS - Operations",
+    "Designation": "Senior Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "CFS - Operations",
+    "Designation": "Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "CFS - Operations",
+    "Designation": "Assistant Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "CFS - Operations",
+    "Designation": "Senior Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "CFS - Operations",
+    "Designation": "Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "CFS - Operations",
+    "Designation": "Senior Coordinator"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "CFS - Operations",
+    "Designation": "Coordinator"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "SCM - Operations",
+    "Designation": "Senior General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "SCM - Operations",
+    "Designation": "General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "SCM - Operations",
+    "Designation": "Assistant General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "SCM - Operations",
+    "Designation": "Senior Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "SCM - Operations",
+    "Designation": "Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "SCM - Operations",
+    "Designation": "Assistant Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "SCM - Operations",
+    "Designation": "Senior Operations Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "SCM - Operations",
+    "Designation": "Operations Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "SCM - Operations",
+    "Designation": "Senior Operations Coordinator"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "SCM - Operations",
+    "Designation": "Operations Coordinator"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Key Information Desk - Operations",
+    "Designation": "Senior General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Key Information Desk - Operations",
+    "Designation": "General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Key Information Desk - Operations",
+    "Designation": "Assistant General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Key Information Desk - Operations",
+    "Designation": "Senior Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Key Information Desk - Operations",
+    "Designation": "Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Key Information Desk - Operations",
+    "Designation": "Assistant Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Key Information Desk - Operations",
+    "Designation": "Senior Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Key Information Desk - Operations",
+    "Designation": "Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Key Information Desk - Operations",
+    "Designation": "Senior Coordinator"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Key Information Desk - Operations",
+    "Designation": "Coordinator"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Key Accounts - Operations",
+    "Designation": "Senior General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Key Accounts - Operations",
+    "Designation": "General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Key Accounts - Operations",
+    "Designation": "Assistant General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Key Accounts - Operations",
+    "Designation": "Senior Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Key Accounts - Operations",
+    "Designation": "Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Key Accounts - Operations",
+    "Designation": "Assistant Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Key Accounts - Operations",
+    "Designation": "Senior Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Key Accounts - Operations",
+    "Designation": "Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Key Accounts - Operations",
+    "Designation": "Senior Coordinator"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Key Accounts - Operations",
+    "Designation": "Coordinator"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Customer Service - Operations",
+    "Designation": "Senior General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Customer Service - Operations",
+    "Designation": "General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Customer Service - Operations",
+    "Designation": "Assistant General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Customer Service - Operations",
+    "Designation": "Senior Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Customer Service - Operations",
+    "Designation": "Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Customer Service - Operations",
+    "Designation": "Assistant Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Customer Service - Operations",
+    "Designation": "Senior Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Customer Service - Operations",
+    "Designation": "Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Customer Service - Operations",
+    "Designation": "Senior Coordinator"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Customer Service - Operations",
+    "Designation": "Coordinator"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Pricing - Air & Sea - Operations",
+    "Designation": "Senior Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Pricing - Air & Sea - Operations",
+    "Designation": "Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Pricing - Air & Sea - Operations",
+    "Designation": "Assistant Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Pricing - Air & Sea - Operations",
+    "Designation": "Analyst"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Pricing - Air & Sea - Operations",
+    "Designation": "Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Pricing - Air & Sea - Operations",
+    "Designation": "Coordinator"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Documentation - Operations",
+    "Designation": "Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Documentation - Operations",
+    "Designation": "Assistant Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Documentation - Operations",
+    "Designation": "Team Leader"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Documentation - Operations",
+    "Designation": "Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Documentation - Operations",
+    "Designation": "Senior Coordinator"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Documentation - Operations",
+    "Designation": "Coordinator"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Documentation - Operations",
+    "Designation": "Clerk"
+  },
+  {
+    "JobLevel": "Worker",
+    "Department": "Documentation - Operations",
+    "Designation": "Messenger"
+  },
+  {
+    "JobLevel": "Management",
+    "Department": "Projects - Oil & Energy",
+    "Designation": "Vice President"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Projects - Oil & Energy",
+    "Designation": "Senior General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Projects - Oil & Energy",
+    "Designation": "General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Projects - Oil & Energy",
+    "Designation": "Assistant General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Projects - Oil & Energy",
+    "Designation": "Senior Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Projects - Oil & Energy",
+    "Designation": "Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Projects - Oil & Energy",
+    "Designation": "Assistant Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Projects - Oil & Energy",
+    "Designation": "Senior  Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Projects - Oil & Energy",
+    "Designation": "Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Projects - Oil & Energy",
+    "Designation": "Senior Coordinator"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Projects - Oil & Energy",
+    "Designation": "Coordinator"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Transport",
+    "Designation": "Senior Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Transport",
+    "Designation": "Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Transport",
+    "Designation": "Assistant Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Transport",
+    "Designation": "Senior Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Transport",
+    "Designation": "Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Transport",
+    "Designation": "Senior Coordinator"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Transport",
+    "Designation": "Coordinator"
+  },
+  {
+    "JobLevel": "Worker",
+    "Department": "Transport",
+    "Designation": "Heavy Duty Driver"
+  },
+  {
+    "JobLevel": "Worker",
+    "Department": "Transport",
+    "Designation": "Light Vehicle Driver"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Marketing",
+    "Designation": "General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Marketing",
+    "Designation": "Assistant General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Marketing",
+    "Designation": "Senior Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Marketing",
+    "Designation": "Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Marketing",
+    "Designation": "Assistant Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Marketing",
+    "Designation": "Senior Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Marketing",
+    "Designation": "Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Marketing",
+    "Designation": "Coordinator"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Finance",
+    "Designation": "Chief Financial Officer"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Finance",
+    "Designation": "Financial Director"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Finance",
+    "Designation": "Finance Controller"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Finance",
+    "Designation": "Financial Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Finance",
+    "Designation": "Assistant Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Finance - Treasury",
+    "Designation": "Treasury Accountant"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Finance - Accounting",
+    "Designation": "Senior Accountant"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Finance - Accounting",
+    "Designation": "Accountant"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Finance - Accounting",
+    "Designation": "Accounting Assistant"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Finance - Credit",
+    "Designation": "Credit Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Finance - Credit",
+    "Designation": "Senior Credit Controller"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Finance - Credit",
+    "Designation": "Credit Controller"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "HR & Administration",
+    "Designation": "Chief Human Resource Officer"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "HR & Administration",
+    "Designation": "Human Resources Director"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "HR & Administration",
+    "Designation": "Human Resources Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "HR & Administration",
+    "Designation": "Human Resources Senior Officer"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "HR & Administration",
+    "Designation": "Human Resources Officer"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "HR & Administration",
+    "Designation": "Human Resources Coordinator"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "HR & Administration",
+    "Designation": "Human Resources Assistant"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "HR & Administration",
+    "Designation": "Administration Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "HR & Administration",
+    "Designation": "Administration Senior Officer"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "HR & Administration",
+    "Designation": "Administration Officer"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "HR & Administration",
+    "Designation": "Administration Coordinator"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "HR & Administration",
+    "Designation": "Administration Assistant"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "HR & Administration - Front Desk",
+    "Designation": "Receptionist"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "HR & Administration - Health & Safety",
+    "Designation": "HSE Officer"
+  },
+  {
+    "JobLevel": "Worker",
+    "Department": "HR & Administration - Health & Safety",
+    "Designation": "Office Assistant"
+  },
+  {
+    "JobLevel": "Worker",
+    "Department": "HR & Administration - Health & Safety",
+    "Designation": "Cleaner"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "HR & Administration - Security",
+    "Designation": "Chief Security"
+  },
+  {
+    "JobLevel": "Worker",
+    "Department": "HR & Administration - Security",
+    "Designation": "Senior Security"
+  },
+  {
+    "JobLevel": "Worker",
+    "Department": "HR & Administration - Security",
+    "Designation": "Security"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "IT",
+    "Designation": "Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "IT",
+    "Designation": "Assistant Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "IT",
+    "Designation": "Supervisor (Team Leader - IT & Network Engineer)"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "IT",
+    "Designation": "Engineer (IT & Network Engineer)"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "IT",
+    "Designation": "Junior Engineer (Jr. IT & Network Engineer)"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "Warehouse - Operations",
+    "Designation": "Warehouse Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Warehouse - Operations",
+    "Designation": "Warehouse Incharge"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Warehouse - Operations",
+    "Designation": "Warehouse Team Leader"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Warehouse - Operations",
+    "Designation": "Warehouse Supervisor"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "Warehouse - Operations",
+    "Designation": "Warehouse Coordinator"
+  },
+  {
+    "JobLevel": "Worker",
+    "Department": "Warehouse - Operations",
+    "Designation": "Carpenter"
+  },
+  {
+    "JobLevel": "Worker",
+    "Department": "Warehouse - Operations",
+    "Designation": "Senior Forklift Operator"
+  },
+  {
+    "JobLevel": "Worker",
+    "Department": "Warehouse - Operations",
+    "Designation": "Forklift Operator"
+  },
+  {
+    "JobLevel": "Worker",
+    "Department": "Warehouse - Operations",
+    "Designation": "Senior Tally Clerk"
+  },
+  {
+    "JobLevel": "Worker",
+    "Department": "Warehouse - Operations",
+    "Designation": "Tally Clerk"
+  },
+  {
+    "JobLevel": "Worker",
+    "Department": "Warehouse - Operations",
+    "Designation": "Labour"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "eLogix - Operations",
+    "Designation": "Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "eLogix - Operations",
+    "Designation": "Assistant Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "eLogix - Operations",
+    "Designation": "Team Leader"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "eLogix - Operations",
+    "Designation": "Executive"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "eLogix - Operations",
+    "Designation": "Senior Coordinator"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "eLogix - Operations",
+    "Designation": "Coordinator"
+  },
+  {
+    "JobLevel": "Worker",
+    "Department": "eLogix - Operations",
+    "Designation": "Packer"
+  },
+  {
+    "JobLevel": "Worker",
+    "Department": "eLogix - Operations",
+    "Designation": "Helper"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "eLogix - Sales",
+    "Designation": "Vice President"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "eLogix - Sales",
+    "Designation": "Senior General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "eLogix - Sales",
+    "Designation": "General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "eLogix - Sales",
+    "Designation": "Assistant General Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "eLogix - Sales",
+    "Designation": "Senior Manager"
+  },
+  {
+    "JobLevel": "Manager",
+    "Department": "eLogix - Sales",
+    "Designation": "Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "eLogix - Sales",
+    "Designation": "Assistant Manager"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "eLogix - Sales",
+    "Designation": "Team Leader"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "eLogix - Sales",
+    "Designation": "Senior Coordinator"
+  },
+  {
+    "JobLevel": "Staff",
+    "Department": "eLogix - Sales",
+    "Designation": "Coordinator"
+  }
+]
